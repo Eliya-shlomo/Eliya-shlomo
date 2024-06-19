@@ -30,7 +30,9 @@ I am excited about opportunities to collaborate with dynamic teams on challengin
 - Cybersecurity Best Practices
 
 📫 **How to reach me**: 
-Feel free to connect with me via [LinkedIn](#) or [email](#). 
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/eliya-shlomo)
+or [email](eliyashlomo7@gmail.com). 
+
 
 😄 **Pronouns**: He/Him
 

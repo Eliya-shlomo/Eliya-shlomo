@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eliya Shlomo</h1>
 <h3 align="center">Software Engineer |Computer Science junior (B.Sc) |Crafting Code with Innovation and Precision</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 

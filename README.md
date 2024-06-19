@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eliya Shlomo</h1>
 <h3 align="center">Software Engineer |Computer Science junior (B.Sc) |Crafting Code with Innovation and Precision</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<img alt="Coder GIF" height=200 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" />
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

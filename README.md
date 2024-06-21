@@ -1,4 +1,3 @@
-https://www.canva.com/design/DAGIlPMQdms/CM9EJCodqHIzJ-lwT29Xbw/edit?utm_content=DAGIlPMQdms&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 <h1 align="center">Hi 👋, I'm Eliya Shlomo</h1>
 <h3 align="center">Software Engineer |Computer Science junior (B.Sc) |Crafting Code with Innovation and Precision</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
